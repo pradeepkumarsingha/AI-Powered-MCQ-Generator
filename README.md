@@ -19,7 +19,7 @@ The AI-Powered MCQ Generator is an intelligent tool that automatically creates m
 
 ## Project Structure
 
----
+```bash
 MCQ/
 ├── StreamlitAPP.py # Main application
 ├── src/ # Source code
@@ -29,8 +29,7 @@ MCQ/
 ├── requirements.txt # Dependencies
 ├── .gitignore
 └── README.md
----
-
+```
 
 ---
 
@@ -56,5 +55,6 @@ If you have questions, suggestions, or want to collaborate, feel free to reach o
 
 
 You can also open **GitHub Issues** in this repository for feature requests or bug reports.
+
 
 
