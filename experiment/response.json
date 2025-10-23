@@ -1,0 +1,52 @@
+{
+  "1": {
+    "mcq": "What is Machine Learning?",
+    "options": {
+      "a": "A field of study that gives computers the ability to learn without being explicitly programmed",
+      "b": "A type of programming language",
+      "c": "A hardware device used for learning purposes",
+      "d": "A type of computer virus"
+    },
+    "correct": "a"
+  },
+  "2": {
+    "mcq": "What is the main goal of Machine Learning?",
+    "options": {
+      "a": "To make computers think like humans",
+      "b": "To make computers learn from data",
+      "c": "To replace human intelligence with artificial intelligence",
+      "d": "To make computers faster"
+    },
+    "correct": "b"
+  },
+  "3": {
+    "mcq": "Which of the following is NOT a type of Machine Learning?",
+    "options": {
+      "a": "Supervised Learning",
+      "b": "Unsupervised Learning",
+      "c": "Reinforcement Learning",
+      "d": "Manual Learning"
+    },
+    "correct": "d"
+  },
+  "4": {
+    "mcq": "What is the process of training a Machine Learning model called?",
+    "options": {
+      "a": "Programming",
+      "b": "Learning",
+      "c": "Teaching",
+      "d": "Training"
+    },
+    "correct": "d"
+  },
+  "5": {
+    "mcq": "Which of the following is an example of Machine Learning application?",
+    "options": {
+      "a": "Email spam filtering",
+      "b": "Typing on a keyboard",
+      "c": "Watching a movie",
+      "d": "Playing a video game"
+    },
+    "correct": "a"
+  }
+}

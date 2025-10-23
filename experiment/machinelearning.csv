@@ -1,0 +1,6 @@
+MCQ,Choice,Correct
+What is the main goal of machine learning?,a:To make machines intelligent|b:To make machines learn from data|c:To make machines think like humans|d:To make machines replace humans,b
+Which of the following is NOT a type of machine learning?,a:Supervised learning|b:Unsupervised learning|c:Reinforcement learning|d:Manual learning,d
+What is the process of feeding input data into a machine learning model known as?,a:Training|b:Testing|c:Validation|d:Prediction,a
+Which algorithm is commonly used for classification in machine learning?,a:Linear Regression|b:K-Means Clustering|c:Decision Trees|d:Principal Component Analysis,c
+What is overfitting in machine learning?,a:When a model performs well on training data but poorly on testing data|b:When a model performs well on both training and testing data|c:When a model is too simple to capture the underlying patterns in the data|d:When a model is not complex enough to learn from the data,a
